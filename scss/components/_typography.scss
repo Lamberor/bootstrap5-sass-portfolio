@@ -15,7 +15,7 @@
     font-size: 1rem;
     display: block;
     margin-top: 1.2rem;
-    text-transform: none;
+    text-transform: capitalize;
 
     @include media-breakpoint-up(lg) {
       font-size: 1.4rem;
